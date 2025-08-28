@@ -31,13 +31,13 @@ const apaAja = [
 
 export function OurApproach() {
   return (
-    <section className="bg-white py-16">
+    <section className="bg-accent-900 py-16">
       {/* Heading */}
       <div className="mb-12 px-4 text-center">
-        <h3 className="text-2xl font-bold text-gray-900 md:text-3xl">
+        <h3 className="text-2xl font-bold text-white md:text-3xl">
           Our Approach
         </h3>
-        <p className="-mt-6 text-base text-gray-700 md:text-lg">
+        <p className="-mt-6 text-base text-white md:text-lg">
           Lorem ipsum dolor sit amet consectetur. Orci mattis.
         </p>
       </div>
